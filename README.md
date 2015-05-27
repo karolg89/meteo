@@ -1,2 +1,3 @@
 Raspberry Pi software for meteo station.
-Read data ftom hardware and sends it to remote db via php sctipt.
+Reads data ftom hardware and sends it to the remote db via php sctipt.
+Provides daemon script.
